@@ -7,6 +7,10 @@ Takım Unity u97
 
 <img align="right" width="250" height="200" src="https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/Logo.png">
 
+## Product Backlog URL
+
+[U97 Team Notion Backlog Board](https://www.notion.so/ab764ac5429c4e78a0d68f774ddc4f6c?v=69adf23a0c9d4886bd5920f373dfe123&pvs=4)
+
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
