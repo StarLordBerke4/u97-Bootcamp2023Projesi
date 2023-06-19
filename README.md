@@ -67,9 +67,14 @@ Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "No
 ![Sprint1_4](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%201/4.png)
 ![Sprint1_5](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%201/5.png)
 
+- **Sprint Analizi**: Sprint analiz screenshotları: 
 ![Sprint1 Analiz](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%201/Sprint1_Analiz.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
+- Sprint 1 sonunda oyunumuzun "ana menü" tasarımı tamamlanmıştır.
 ![Screenshot 1](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/G%C3%B6rsel%201.jpg)
 
+- **Sprint Review**:
+- Finallerimizin bitmesi ile beraber projede çarşamba gününden itibaren hız kazanarak; 1 Temmuz 2023 tarihine kadar projemizi tamamlamayı hedefliyoruz. "Defend Your City" çok yakında sizinle buluşuyor.
 
+- **Sprint Retrospective:**
