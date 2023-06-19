@@ -20,4 +20,7 @@ Defend Your City
 ## Ürün Açıklaması
 Kule Savuma, Gerçek Zamanlı Strateji türünün bir alt türüdür. Kule Savunma oyunlarında amaç, kuleler kurarak haritadaki düşmanları durdurmaktır. Kuleler ve düşmanlar genellikle değişik özelliklere, fiyatlara ve geliştirmelere sahiptir. Düşman yenildiğinde oyuncu para ya da puan kazanır ve bu para ya da puanı kuleleri geliştirmek için kullanır.
 
-Ekibimizle beraber yapmakta olduğumuz "Defend Your City" isim 2D kule savunma oyunumuzda bolca zaman geçirerek boş zamanınızı geçirebilirsiniz. 
+Ekibimizle beraber yapmakta olduğumuz "Defend Your City" isim 2D kule savunma oyunumuzda bolca zaman geçirerek boş zamanınızı değerlendirebilirsiniz.
+
+- **Oyunun Amacı**: Üzerinize akın akın gelen düşmanlara karşı merkezinizi savunarak kazanmaya çalışmaktır. 
+- **Oynanış**: Düşmanlar üzerinize doğru gelirken ilgili noktalara koyduğunuz savunma sistemleri ile onları yok edin ve merkezinizi savunun. Yok edilen düşmanlardan topladığınız altın ve kristaller ile savunma sisteminizi ve silahlarınızı güçlendirin kazanan siz olun.
