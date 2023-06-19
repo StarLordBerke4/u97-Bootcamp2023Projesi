@@ -26,8 +26,9 @@ Ekibimizle beraber yapmakta olduğumuz "Defend Your City" isim 2D kule savunma o
 - **Oynanış**: Düşmanlar üzerinize doğru gelirken ilgili noktalara koyduğunuz savunma sistemleri ile onları yok edin ve merkezinizi savunun. Yok edilen düşmanlardan topladığınız altın ve kristaller ile savunma sisteminizi ve silahlarınızı güçlendirin, kazanan siz olun.
 
 ## Ürün Özellikleri
-- Oyuncular; "Defend Your City" isimli oyun projemiz sayesinde strateji yapma ve taktiksel analiz gibi yetenkler kazanabilirler.
-- 
+- Oyuncular; "Defend Your City" isimli oyun projemiz sayesinde strateji yapma ve taktiksel analiz gibi yetenkler kazanabilirler. Bu sayede bir taraftan eğlenirlerken; bir taraftan ise öğrenerek kendilerini eğitebilirler.
+- Oyuncular; hayatlarındaki yoğun iş ve okul sitresinden kurtarmak için "Defend Your City" isimli oyun projemiz ile eğlenebilirler, kafa dağıtabilirler ve kısa bir sürede olsa bu dünyadaki yükümlülüklerinden uzaklaşarak boş zamanlarını değerlendirebilirler.
+- Oyunumuz ile her yaştan oyuncuya hitap ederek oyun oynamanın yaşının olmadığını göstermeyi hedeflemekteyiz.
 - Oyunumuzda şuan için coop player özelliği olmasada gelecekte bu özelliğide getirerek takım çalışması, dostluk ve kardeşlik gibi duyguların pekişmesini sağlamayı hedefliyoruz. 
 
 
