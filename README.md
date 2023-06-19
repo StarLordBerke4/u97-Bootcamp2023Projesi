@@ -28,3 +28,8 @@ Ekibimizle beraber yapmakta olduğumuz "Defend Your City" isim 2D kule savunma o
 ## Ürün Özellikleri
 
 ## Hedef Kitle
+- Oyun Tutkunları
+- Eğlence ve Adrenalin ile Kavrulanlar
+- İçerik üreticileri ve Yayıncılar
+- Strateji Türü Aşıkları 
+- Her Yaştan Oyuncular
