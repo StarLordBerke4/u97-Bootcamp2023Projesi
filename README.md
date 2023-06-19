@@ -53,3 +53,5 @@ Ekibimizle beraber yapmakta olduğumuz "Defend Your City" isim 2D kule savunma o
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü ve üniversite final haftalarımız nedeni ile "Slack" üzerinden yapılmasına karar verilmiştir. Sprint boyunca her gün ilgili uygulama ile "Daily Scrum" yapılmıştır. Ancak son 1,5 hafta final sınavlarımız nedeni ile haftada 2 gün toplanabildik. Daily Scrum toplantısı örnekleri word olarak Readme'de tarafımızdan paylaşılmaktadır: 
