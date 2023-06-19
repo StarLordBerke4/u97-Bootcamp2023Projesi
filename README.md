@@ -5,7 +5,7 @@
 
 Takım Unity u97
 
-<img align="right" width="250" height="200" src="(https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/Logo.png)">
+<img align="right" width="250" height="200" src="https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/Logo.png">
 
 # Ürün İle İlgili Bilgiler
 
