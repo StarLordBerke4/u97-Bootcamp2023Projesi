@@ -91,3 +91,7 @@ Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "No
 - **Sprint Retrospective:**
 - Takım içindeki görev dağılımıyla ilgili düzenleme yapılacaktır.
 - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+
+---
+
+# Sprint 2
