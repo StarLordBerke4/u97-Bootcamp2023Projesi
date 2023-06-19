@@ -59,3 +59,6 @@ Ekibimizle beraber yapmakta olduğumuz "Defend Your City" isim 2D kule savunma o
 - **Backlog Düzeni**: Backlog'umuz tarihlere göre düzenlenmiştir. Ayrıca yapılacak işler (tags) Sprint 1,2 ve 3 için gruplara bölünerek sıralanmıştır.
 
 Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "Notion" üzerinden. Tamamlanan görevler; "Done" devam eden görevler ise; "İn Progress" olarak ifade edilmiştir.
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Sprint1_1](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%201/1.png)
