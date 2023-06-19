@@ -9,9 +9,9 @@ Takım Unity u97
 
 ## Takım Elemanları
 - [Berke Mert Öztürk: Scrum Master - Developer - Designer - Social Media Management](https://www.linkedin.com/in/starlordberke/)
-- İclal Gül: Developer
-- Mustafa ORHAN: Developer
-- Cihan Yavuz Taş: Developer - Designer
+- [İclal Gül: Developer](https://www.linkedin.com/in/iclal-g%C3%BCl-/)
+- [Mustafa ORHAN: Developer](https://github.com/Mustafaorhan0)
+- [Cihan Yavuz Taş: Developer - Designer](https://www.linkedin.com/in/cyavuztas/)
 - Gizem Dinç: Developer - Designer
 
 ## Ürün İsmi
