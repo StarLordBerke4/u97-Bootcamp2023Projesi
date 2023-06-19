@@ -85,3 +85,5 @@ Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "No
 - Finallerimizin bitmesi ile beraber projede çarşamba gününden itibaren hız kazanarak; 1 Temmuz 2023 tarihine kadar projemizi tamamlamayı hedefliyoruz. "Defend Your City" çok yakında sizinle buluşuyor.
 
 - **Sprint Retrospective:**
+- Takım içindeki görev dağılımıyla ilgili düzenleme yapılacaktır.
+- Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
