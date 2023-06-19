@@ -46,7 +46,7 @@ Ekibimizle beraber yapmakta olduğumuz "Defend Your City" isim 2D kule savunma o
 - Her Yaştan Oyuncular
 
 ## Juriye Not
-"Defend Your City" isimli oyun projemizde kullanacağımız oyun grafikleri ve modellemelr zaman kısıtından dolayı hazır assetler'den yararlanılarak oluşturulacaktır.
+"Defend Your City" isimli oyun projemizde kullanacağımız oyun grafikleri ve modellemeler zaman kısıtından dolayı hazır assetler'den yararlanılarak oluşturulacaktır.
 
 ---
 
