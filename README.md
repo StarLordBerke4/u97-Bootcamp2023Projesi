@@ -68,3 +68,8 @@ Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "No
 ![Sprint1_5](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%201/5.png)
 
 ![Sprint1 Analiz](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%201/Sprint1_Analiz.png)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![Screenshot 1](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/G%C3%B6rsel%201.jpg)
+
+
