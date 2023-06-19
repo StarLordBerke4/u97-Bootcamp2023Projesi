@@ -81,12 +81,12 @@ Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "No
 
 - **Ürün Durumu**: Ekran Görüntüleri:
 
-- Sprint 1 sonunda oyunumuzun "ana menü" tasarımı tamamlanmıştır.
+Sprint 1 sonunda oyunumuzun "ana menü" tasarımı tamamlanmıştır.
 
 ![Screenshot 1](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/G%C3%B6rsel%201.jpg)
 
 - **Sprint Review**:
-- Finallerimizin bitmesi ile beraber projede çarşamba gününden itibaren hız kazanarak; 1 Temmuz 2023 tarihine kadar projemizi tamamlamayı hedefliyoruz. "Defend Your City" çok yakında sizinle buluşuyor.
+Finallerimizin bitmesi ile beraber projede çarşamba gününden itibaren hız kazanarak; 1 Temmuz 2023 tarihine kadar projemizi tamamlamayı hedefliyoruz. "Defend Your City" çok yakında sizinle buluşuyor.
 
 - **Sprint Retrospective:**
 - Takım içindeki görev dağılımıyla ilgili düzenleme yapılacaktır.
