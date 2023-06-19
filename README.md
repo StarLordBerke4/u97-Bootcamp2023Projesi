@@ -23,4 +23,8 @@ Kule Savuma, Gerçek Zamanlı Strateji türünün bir alt türüdür. Kule Savun
 Ekibimizle beraber yapmakta olduğumuz "Defend Your City" isim 2D kule savunma oyunumuzda bolca zaman geçirerek boş zamanınızı değerlendirebilirsiniz.
 
 - **Oyunun Amacı**: Üzerinize akın akın gelen düşmanlara karşı merkezinizi savunarak kazanmaya çalışmaktır. 
-- **Oynanış**: Düşmanlar üzerinize doğru gelirken ilgili noktalara koyduğunuz savunma sistemleri ile onları yok edin ve merkezinizi savunun. Yok edilen düşmanlardan topladığınız altın ve kristaller ile savunma sisteminizi ve silahlarınızı güçlendirin kazanan siz olun.
+- **Oynanış**: Düşmanlar üzerinize doğru gelirken ilgili noktalara koyduğunuz savunma sistemleri ile onları yok edin ve merkezinizi savunun. Yok edilen düşmanlardan topladığınız altın ve kristaller ile savunma sisteminizi ve silahlarınızı güçlendirin, kazanan siz olun.
+
+## Ürün Özellikleri
+
+## Hedef Kitle
