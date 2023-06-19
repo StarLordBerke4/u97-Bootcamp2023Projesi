@@ -62,3 +62,9 @@ Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "No
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Sprint1_1](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%201/1.png)
+![Sprint1_2](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%201/2.png)
+![Sprint1_3](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%201/3.png)
+![Sprint1_4](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%201/4.png)
+![Sprint1_5](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%201/5.png)
+
+![Sprint1 Analiz](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%201/Sprint1_Analiz.png)
