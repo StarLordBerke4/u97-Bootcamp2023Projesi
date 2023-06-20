@@ -18,7 +18,7 @@ Takım Unity u97
 - [İclal Gül: Developer](https://www.linkedin.com/in/iclal-g%C3%BCl-/)
 - [Mustafa ORHAN: Developer](https://github.com/Mustafaorhan0)
 - [Cihan Yavuz Taş: Developer - Designer](https://www.linkedin.com/in/cyavuztas/)
-- Gizem Dinç: Developer - Designer
+- [Gizem Dinç: Developer - Designer](https://www.linkedin.com/in/gizemdinc/)
 
 ## Ürün İsmi
 Defend Your City
