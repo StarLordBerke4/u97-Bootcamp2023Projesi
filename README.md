@@ -96,3 +96,9 @@ Finallerimizin bitmesi ile beraber projede çarşamba gününden itibaren hız k
 ---
 
 # Sprint 2
+
+- **Sprint Notları**: Bu sprint'te projenin ana hatlarını tamamlamak adına tüm takım arkadaşlarımız büyük bir azimle çalıştı. Çoğumuzun asıl alanı oyun geliştirme olmamasına rağmen; google, youtube ve akademi eğitimlerinden yararlanarak proje inşasında karşılaşılan sorunlara çözüm bularak projeyi tamamlamaya yaklaştık. Süreç içerisinde en çok vaktimizi alan nokta ise; yazdığımız kodların ve animasyonların çalışma ve uyum derecesini kontrol etme süreci "Test Süreci" oldu. Bu sprint sonunda oyun projemiz olan "Defend Your City" tamalanmaya yaklaştı. Projenin kodlarının yazılımı, uygun asset seçimi , animasyonların uygulanması ve hepsinin unity üzerinde birleştirilerek projeyi ortaya çıkarılması bu sprint içinde gerçekleştirildi.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in de 100 puan olmasına karar verdik.
