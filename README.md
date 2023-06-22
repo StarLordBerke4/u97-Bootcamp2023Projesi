@@ -50,7 +50,7 @@ Ekibimizle beraber yapmakta olduğumuz "Defend Your City" isim 2D kule savunma o
 
 ---
 
-# Sprint 1
+# Sprint 1: Projeye İlk Adım
 
 - **Sprint Notları**: Takım olarak proje yönetiminde "Notion" kullanımı kararlaştırılmıştır.
 
@@ -95,7 +95,7 @@ Finallerimizin bitmesi ile beraber projede çarşamba gününden itibaren hız k
 
 ---
 
-# Sprint 2
+# Sprint 2: Proje Ortaya Çıkıyor
 
 - **Sprint Notları**: Bu sprint'te projenin ana hatlarını tamamlamak adına tüm takım arkadaşlarımız büyük bir azimle çalıştı. Çoğumuzun asıl alanı oyun geliştirme olmamasına rağmen; google, youtube ve akademi eğitimlerinden yararlanarak proje inşasında karşılaşılan sorunlara çözüm bularak projeyi tamamlamaya yaklaştık. Süreç içerisinde en çok vaktimizi alan nokta ise; yazdığımız kodların ve animasyonların çalışma ve uyum derecesini kontrol etme süreci "Test Süreci" oldu. Bu sprint sonunda oyun projemiz olan "Defend Your City" tamalanmaya yaklaştı. Projenin kodlarının yazılımı, uygun asset seçimi , animasyonların uygulanması ve hepsinin unity üzerinde birleştirilerek projeyi ortaya çıkarılması bu sprint içinde gerçekleştirildi.
 
