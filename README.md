@@ -110,3 +110,15 @@ Finallerimizin bitmesi ile beraber projede çarşamba gününden itibaren hız k
 Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "Notion" üzerinden. Tamamlanan görevler; "Done" devam eden görevler ise; "İn Progress" olarak ifade edilmiştir.
 
 - **Sprint board update**: Sprint board screenshotları:
+![Sprint2 1](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%202/Sprint%202.1.png)
+
+![Sprint2 2](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%202/Sprint%202.2.png)
+
+![Sprint2 3](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%202/Sprint%202.3.png)
+
+![Sprint2 4](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%202/Sprint%202.4.png)
+
+![Sprint2 5](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%202/Sprint%202.5.png)
+
+![Sprint2 6](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%202/Sprint%202.7.png)
+
