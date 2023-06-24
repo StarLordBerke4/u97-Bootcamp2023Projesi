@@ -1,5 +1,6 @@
-
-* Proje dosyaları boyut nedeni ile "rar" haline getirilerek github'a yüklenmiştir.
+Proje Dosyalarını ayrıca "Google Drive" üzerinden de indirebilirsiniz.
 
 * Proje dosyalarını "Google Drive" üzerinden indirebilirsiniz.
-  https://drive.google.com/file/d/1E8J-3xOHfRXJ6-UVoZMeslVCg-XceQ_q/view?usp=drive_link
+  https://drive.google.com/file/d/1E8J-3xOHfRXJ6-UVoZMeslVCg-XceQ_q/view?usp=sharing
+  https://drive.google.com/file/d/1E8J-3xOHfRXJ6-UVoZMeslVCg-XceQ_q/view?usp=sharing
+  https://drive.google.com/file/d/1E8J-3xOHfRXJ6-UVoZMeslVCg-XceQ_q/view?usp=sharing
