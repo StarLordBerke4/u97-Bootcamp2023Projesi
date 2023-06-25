@@ -144,3 +144,7 @@ Sprint 2 sonunda "Defend Your City" isimli mobil oyun projemizin ana hatları ta
 - Yapılan testler sonucunda oyun içinde yer alan animasyonlar üzerine biraz daha çalışılarak daha stabil sonuçlar elde edilmesi kararı alınmıştır.
 - Kulanılan assetler ve oyun temasının uyumu son kez gözden geçirilecektir.
 - Kurban bayramı nedeni ile projeye bayram tatili süresince ara verilecektir. Vakti olan arkadaşlar; projede yarım kalan işler üzerine çalışacaktır.
+
+---
+
+# Sprint 3:
