@@ -89,6 +89,8 @@ Sprint 1 sonunda oyunumuzun "ana menü" tasarımı tamamlanmıştır.
 - **Sprint Review**:
 Finallerimizin bitmesi ile beraber projede çarşamba gününden itibaren hız kazanarak; 1 Temmuz 2023 tarihine kadar projemizi tamamlamayı hedefliyoruz. "Defend Your City" çok yakında sizinle buluşuyor.
 
+- **Sprint Review katılımcıları**: Berke Mert Öztürk, İclal Gül, Mustafa Orhan, Gizem Dinç, Cihan Yavuz Taş
+
 - **Sprint Retrospective:**
 - Takım içindeki görev dağılımıyla ilgili düzenleme yapılacaktır.
 - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
@@ -133,8 +135,9 @@ Sprint 2 sonunda "Defend Your City" isimli mobil oyun projemizin ana hatları ta
 
 ![Screenshot 3](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/G%C3%B6rsel%203.jpg)
 
-- **Sprint Review**:
-
+- **Sprint Review**: "Defend Your City" isimli unity oyun projemizin bu aşamasında ekibimizde yer alan tüm takım arkadaşlarımız tasarım , yazılım, animasyon ve proje yönetimi tarafında üzerlerine düşen görevleri tamamlayarak projeyi bitirme aşamasına kadar getirdiler. Sprint 3 de ise hedefimiz yoğun olarak test sürecine girerek proje içinde karşılaşılabilecek sorunlara çözüm bularak projeyi sonlandırmaktır. Ayrıca; oyunu mobil platformlar için geliştirdiğimizden dolayı sosyal medya tanıtı ve oyun içi reklam stratejileri konsunda da sprint 3 te ekip olarak çalışmaya devam edeceğiz. "Defebd Your City" çok yakında sizlerle olacak.
+  
+- **Sprint Review Katılımcıları**: Berke Mert Öztürk, İclal Gül, Mustafa Orhan, Gizem Dinç, Cihan Yavuz Taş
 
 - **Sprint Retrospective:**
 - Ürün içinde yer alacak para kazanma sistemleri üzerine tartışılarak oyunun mobil platformlar için ücretsiz olarak çıkmasına ancak oyun içi reklam sistemi sayesinde gelir elde etme sisteminin kurulmasına karar verilmiştir.
