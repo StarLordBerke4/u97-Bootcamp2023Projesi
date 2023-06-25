@@ -124,8 +124,13 @@ Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "No
 
 - **Sprint Analizi**: Sprint Analizi Ekran Görüntüleri:
   
-- ![Sprint2 Analiz](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%202/Sprint2_Analiz.png)
+![Sprint2 Analiz](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%202/Sprint2_Analiz.png)
 
 - **Ürün Durumu**: Ekran Görüntüleri:
 Sprint 2 sonunda "Defend Your City" isimli mobil oyun projemizin ana hatları tamamlandı ve oyunumuz ortaya çıkmaya başladı.
+
+![Screenshot 2](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/G%C3%B6rsel%202.jpg)
+
+![Screenshot 3](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/G%C3%B6rsel%203.jpg)
+
 
