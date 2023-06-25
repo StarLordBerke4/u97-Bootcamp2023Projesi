@@ -133,4 +133,11 @@ Sprint 2 sonunda "Defend Your City" isimli mobil oyun projemizin ana hatları ta
 
 ![Screenshot 3](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/G%C3%B6rsel%203.jpg)
 
+- **Sprint Review**:
 
+
+- **Sprint Retrospective:**
+- Ürün içinde yer alacak para kazanma sistemleri üzerine tartışılarak oyunun mobil platformlar için ücretsiz olarak çıkmasına ancak oyun içi reklam sistemi sayesinde gelir elde etme sisteminin kurulmasına karar verilmiştir.
+- Yapılan testler sonucunda oyun içinde yer alan animasyonlar üzerine biraz daha çalışılarak daha stabil sonuçlar elde edilmesi kararı alınmıştır.
+- Kulanılan assetler ve oyun temasının uyumu son kez gözden geçirilecektir.
+- Kurban bayramı nedeni ile projeye bayram tatili süresince ara verilecektir. Vakti olan arkadaşlar; projede yarım kalan işler üzerine çalışacaktır.
