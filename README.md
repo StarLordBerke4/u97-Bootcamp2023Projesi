@@ -103,7 +103,7 @@ Finallerimizin bitmesi ile beraber projede çarşamba gününden itibaren hız k
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in de 100 puan olmasına karar verdik.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü kurban bayramı tatili, üniversite bütünlemeleri ve yaz stajları nedeni ile "Slack" üzerinden yapılmıştır. Haftada 2 kez toplanılmış ve proje gidişatına ve karşılaşılan sorunlara çözüm bulmak adına kısa sohbetler şeklinde gerçekleştirilmiştir.
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü kurban bayramı tatili, üniversite bütünlemeleri ve yaz stajları nedeni ile "Slack" üzerinden yapılmıştır. Haftada 2 kez toplanılmış ve proje gidişatına ve karşılaşılan sorunlara çözüm bulmak adına kısa sohbetler şeklinde gerçekleştirilmiştir. Daily Scrum toplantısı örnekleri word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
 - **Backlog Düzeni**: Backlog'umuz tarihlere göre düzenlenmiştir. Ayrıca yapılacak işler (tags) Sprint 1,2 ve 3 için gruplara bölünerek sıralanmıştır.
 
