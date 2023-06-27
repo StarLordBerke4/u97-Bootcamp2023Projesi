@@ -1,0 +1,89 @@
+
+Berke Mert Öztürk
+  9:12 AM
+oyun dosyaları yüklendikten sonra yapılması gerekn 2 şey var bir kaçtane gif şekinde oyun içinden kesit ihtiyacı var. Birde 1 ila 2 dk arası olacak şekilde oyun içi oynnaış videosu lazım.
+
+
+Gizem Dinç
+  9:13 AM
+sharex kullanabiliriz video ve gif için
+
+
+Berke Mert Öztürk
+  9:14 AM
+Onu siz halledebilirmisiniz gençler ya. Sprint 2 grafiklerini hazarlayacağım bu gün excelde.
+
+Mustafa ORHAN
+  9:16 AM
+Elimize sağlık ben de videoyu çekeyim
+
+clal Gül
+  9:18 AM
+Eline sağlık
+:smiling_face_with_3_hearts:
+1
+
+Gizem Dinç
+  9:18 AM
+eline sağlıkkk
+
+
+
+Mustafa ORHAN
+  6:05 PM
+Coursera bela yahu bitmiyor sınavları da uzun sürüyor ben henüz başlamadım 5e
+
+
+Berke Mert Öztürk
+  6:14 PM
+aynen mustafa valla şu ödevlerden ne çektim
+
+
+Mustafa ORHAN
+  6:19 PM
+Bir de her denemede farklı soruyor
+
+
+Berke Mert Öztürk
+  9:08 AM
+Arkadaşlar repoya erişim izni verdim herkese gün içimde github hesaplarınızdan daveti kabul etmeniz lazım.
+
+
+Cihan Yavuz Taş
+  2:39 PM
+Eline sağlık şimdi mailden kabul ettim
+2:40
+Ben gsf çıkışlıyım buton ui ux işlerini hallederim kolayca. 3d yeteneğim maalesef yok ama yapay zeka desteği ile bir şeyler üretebilirim
+2:40
+Github sayfası çok güzel görünüyor
+
+
+Berke Mert Öztürk
+  9:44 PM
+Github oyunun proje dosyalarının eklenmesi kaldı arkadaşlar onun harici şuan yapılacak bişi yok. Sprint 2 yi yazdım bende yarın onu ekleyeceğim.
+
+9:45
+Daha önce unity ile çalışmadım ben front end ciyim normalde unity de dosya boyutu gb düzeyinde olunca repoya yükleyemedim oyun dosyalarını. Uygun olan bir oyun dosyalarını yüklensin lütfen repoya.
+
+
+İclal Gül
+  1:17 PM
+Koymaya çalışıcam en kısa zamanda
+
+
+Mustafa ORHAN
+  3:55 PM
+Büyük dosyalar nasıl yüklenecek sorabilir misin
+
+
+Cihan Yavuz Taş
+  4:00 PM
+Arkadaşlar ben başaramadım arkadaşım tatilde, sonra bakarız yaa diyor ://////////
+4:00
+Asistan abi / ablaya sorma şansımız oluyor mu yokda slackte sorayım mı
+
+Berke Mert Öztürk
+  4:19 PM
+https://git-lfs.com/
+Bunu atıyorlar slack ten sordum bir kaç kişiye. Ama nasıl kullanılıyor anlamadım.
+Aranızda hakim olan varsa büyük dosyaları upload etmeyi bilen lütfen etsin arkadaşlar. Projenin tamamlanması için oyun dosyalarının github'a yiklenmesi mühim.
