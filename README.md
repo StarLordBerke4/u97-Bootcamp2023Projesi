@@ -135,7 +135,7 @@ Sprint 2 sonunda "Defend Your City" isimli mobil oyun projemizin ana hatları ta
 
 ![Screenshot 3](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/G%C3%B6rsel%203.jpg)
 
-- **Sprint Review**: "Defend Your City" isimli unity oyun projemizin bu aşamasında ekibimizde yer alan tüm takım arkadaşlarımız tasarım , yazılım, animasyon ve proje yönetimi tarafında üzerlerine düşen görevleri tamamlayarak projeyi bitirme aşamasına kadar getirdiler. Sprint 3 de ise hedefimiz yoğun olarak test sürecine girerek proje içinde karşılaşılabilecek sorunlara çözüm bularak projeyi sonlandırmaktır. Ayrıca; oyunu mobil platformlar için geliştirdiğimizden dolayı sosyal medya tanıtı ve oyun içi reklam stratejileri konsunda da sprint 3 te ekip olarak çalışmaya devam edeceğiz. "Defebd Your City" çok yakında sizlerle olacak.
+- **Sprint Review**: "Defend Your City" isimli unity oyun projemizin bu aşamasında ekibimizde yer alan tüm takım arkadaşlarımız tasarım , yazılım, animasyon ve proje yönetimi tarafında üzerlerine düşen görevleri tamamlayarak projeyi bitirme aşamasına kadar getirdiler. Sprint 3 de ise hedefimiz yoğun olarak test sürecine girerek proje içinde karşılaşılabilecek sorunlara çözüm bularak projeyi sonlandırmaktır. Ayrıca; oyunu mobil platformlar için geliştirdiğimizden dolayı sosyal medya tanıtı ve oyun içi reklam stratejileri konsunda da sprint 3 te ekip olarak çalışmaya devam edeceğiz. "Defend Your City" çok yakında sizlerle olacak.
   
 - **Sprint Review Katılımcıları**: Berke Mert Öztürk, İclal Gül, Mustafa Orhan, Gizem Dinç, Cihan Yavuz Taş
 
