@@ -49,7 +49,7 @@ Ekibimizle beraber yapmakta olduğumuz "Defend Your City" isim 2D kule savunma o
 "Defend Your City" isimli oyun projemizde kullanacağımız oyun grafikleri ve modellemeler zaman kısıtından dolayı hazır assetler'den yararlanılarak oluşturulacaktır.
 
 ## Not: 
-Dosya boyutu nedeni ile github'a büyük dosyaları yükleyemedik. Bu yüzden ayrıca, oyun projemiz "Defend Your City'yi" Google Drive'a yükledik. Projemizi Drive üzerinden indirebilirsiniz.
+Dosya boyutu nedeni ile github'a büyük dosyaları yükleyemedik. Bu yüzden ayrıca, oyun projemiz "Defend Your City'yi" Google Drive'a yükledik. Projemizi Drive üzerinden indirebilirsiniz:
 [Google Drive Linki (Projeyi İndirebilirsiniz)](https://drive.google.com/file/d/1E8J-3xOHfRXJ6-UVoZMeslVCg-XceQ_q/view?usp=sharing)
 
 ---
