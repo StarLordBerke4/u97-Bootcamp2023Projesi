@@ -1,6 +1,8 @@
 Proje Dosyalarını ayrıca "Google Drive" üzerinden de indirebilirsiniz.
 
+Not: Dosya boyutu nedeni ile github'a büyük dosyaları yükleyemedik. Bu yüzden ayrıca, oyun projemiz "Defend Your City'yi" Google Drive'a yükledik. Projemizi Drive üzerinden indirebilirsiniz.
+
 * Proje dosyalarını "Google Drive" üzerinden indirebilirsiniz.
-  https://drive.google.com/file/d/1E8J-3xOHfRXJ6-UVoZMeslVCg-XceQ_q/view?usp=sharing
-  https://drive.google.com/file/d/1E8J-3xOHfRXJ6-UVoZMeslVCg-XceQ_q/view?usp=sharing
-  https://drive.google.com/file/d/1E8J-3xOHfRXJ6-UVoZMeslVCg-XceQ_q/view?usp=sharing
+ - https://drive.google.com/file/d/1E8J-3xOHfRXJ6-UVoZMeslVCg-XceQ_q/view?usp=sharing
+ - https://drive.google.com/file/d/1E8J-3xOHfRXJ6-UVoZMeslVCg-XceQ_q/view?usp=sharing
+ - https://drive.google.com/file/d/1E8J-3xOHfRXJ6-UVoZMeslVCg-XceQ_q/view?usp=sharing
