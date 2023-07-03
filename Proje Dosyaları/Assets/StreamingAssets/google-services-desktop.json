@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999875455976",
+    "project_id": "invictus-defence",
+    "storage_bucket": "invictus-defence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999875455976:android:77f6ec631e000bc321d25d",
+        "android_client_info": {
+          "package_name": "com.hasanceliktr.InvictusDefence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999875455976-vvmppk8ejfpf0t4s3toln4na1ef48hdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBXbFqA38SRwAC53sGOIpUE5qPf8ktuj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999875455976-vvmppk8ejfpf0t4s3toln4na1ef48hdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
