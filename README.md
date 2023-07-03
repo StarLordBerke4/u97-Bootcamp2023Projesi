@@ -200,3 +200,4 @@ Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "No
 
 Ayrıca; unity oyun projemiz "Defend Your City'nin" tamamlanmış halini ve  oyun içi detayları daha net görmek isterseniz oyun içi oynanış mekaniklerini gösterdiğimiz tanıtım videomuzu izlemeyi unutmayın!
 
+![Video](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/Defend%20Your%20City%20Tan%C4%B1t%C4%B1m.m4v)
