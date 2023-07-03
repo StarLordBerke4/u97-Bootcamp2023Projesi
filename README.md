@@ -151,7 +151,7 @@ Sprint 2 sonunda "Defend Your City" isimli mobil oyun projemizin ana hatları ta
 
 ---
 
-# Sprint 3:
+# Sprint 3: Proje Sonu
 
 - **Sprint Notları**: Bu sprint ile projeyi tamamlamış bulunmaktayız. Ekibimizdeki tüm takım arkadaşlarımız üzerine düşen sorumlulukları yerine getirerek projenin tamamlanmasına katkı sağlamıştır. Sprint 3 de ekibimiz ile beraber projenin tamamlanması adına yaptığımız görevleri şu şekilde sıralayabiliriz.
 - Kodlar test edilerek projede karşılaşılabilecek sorunların önceden belirlenerek çözülmesi sağlanmıştır.
