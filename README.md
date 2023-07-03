@@ -139,7 +139,7 @@ Sprint 2 sonunda "Defend Your City" isimli mobil oyun projemizin ana hatları ta
 
 ![Screenshot 3](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/G%C3%B6rsel%203.jpg)
 
-- **Sprint Review**: "Defend Your City" isimli unity oyun projemizin bu aşamasında ekibimizde yer alan tüm takım arkadaşlarımız tasarım , yazılım, animasyon ve proje yönetimi tarafında üzerlerine düşen görevleri tamamlayarak projeyi bitirme aşamasına kadar getirdiler. Sprint 3 de ise hedefimiz yoğun olarak test sürecine girerek proje içinde karşılaşılabilecek sorunlara çözüm bularak projeyi sonlandırmaktır. Ayrıca; oyunu mobil platformlar için geliştirdiğimizden dolayı sosyal medya tanıtı ve oyun içi reklam stratejileri konsunda da sprint 3 te ekip olarak çalışmaya devam edeceğiz. "Defend Your City" çok yakında sizlerle olacak.
+- **Sprint Review**: "Defend Your City" isimli unity oyun projemizin bu aşamasında ekibimizde yer alan tüm takım arkadaşlarımız tasarım , yazılım, animasyon ve proje yönetimi tarafında üzerlerine düşen görevleri tamamlayarak projeyi bitirme aşamasına kadar getirdiler. Sprint 3 de ise hedefimiz yoğun olarak test sürecine girerek proje içinde karşılaşılabilecek sorunlara çözüm bularak projeyi sonlandırmaktır. Ayrıca; oyunu mobil platformlar için geliştirdiğimizden dolayı sosyal medya tanıtımı ve oyun içi reklam stratejileri konsunda da sprint 3 te ekip olarak çalışmaya devam edeceğiz. "Defend Your City" çok yakında sizlerle olacak.
   
 - **Sprint Review Katılımcıları**: Berke Mert Öztürk, İclal Gül, Mustafa Orhan, Gizem Dinç, Cihan Yavuz Taş
 
@@ -152,3 +152,14 @@ Sprint 2 sonunda "Defend Your City" isimli mobil oyun projemizin ana hatları ta
 ---
 
 # Sprint 3:
+
+- **Sprint Notları**: Bu sprint ile projeyi tamamlamış bulunmaktayız. Ekibimizdeki tüm takım arkadaşlarımız üzerine düşen sorumlulukları yerine getirerek projenin tamamlanmasına katkı sağlamıştır. Sprint 3 de ekibimiz ile beraber projenin tamamlanması adına yaptığımız görevleri şu şekilde sıralayabiliriz.
+- Kodlar test edilerek projede karşılaşılabilecek sorunların önceden belirlenerek çözülmesi sağlanmıştır.
+- Gelir elde etme modelleri üzerine yoğunca konuşularak; oyunun mobil platformlar için çıkacağından dolayı oyun içi reklam modelinin en uygun olduğuna karar verilerek uygulanmıştır. (Not: Oyunumuz store'lara ücretsiz olarak çıkış yapacaktır)
+- Sosyal medya tanıtımı üzerine çalışılmıştır. İlerleyen süreçte; instagram, linkedin, youtube, facebook gibi sosyal medya platformları üzerinden tanıtım yapılarak insanlara ulaşmayı hedefledik.
+- Son olarak oyun projemiz "Defend Your City" Google Drive, Github ve Google Developer hesabına yüklenerek akademi ve değerli oyuncular ile paylaşılmıştır.
+Bu proje sayesinde oyun projelerinde ekip çalışmasının ne kadar önemli olduğunu, bilmediğimiz takıldığımız noktalarda hangi kaynaklardan yararlanılması gerektiği ve kariyer (çalışma) hayatımız için takım çalışmasının öneminin ne kadar etkili olduğunu kavramış olduk. Öncelikle projede emeği geçen tüm takım arkadaşlarımızı kutlar ve "Oyun Uygulama Akademisine" bu yıl bizimle olduğu bu eğitim programına kabul ettiği ve kaliteliği eğitmen kadrosu ile buluşturduğu için teşekkür ederiz.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü ve son sprint'in de 100 puan olmasına karar verdik.
