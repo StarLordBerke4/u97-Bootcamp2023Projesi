@@ -171,3 +171,10 @@ Bu proje sayesinde oyun projelerinde ekip çalışmasının ne kadar önemli old
 Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "Notion" üzerinden. Tamamlanan görevler; "Done" devam eden görevler ise; "İn Progress" olarak ifade edilmiştir.
 
 - **Sprint board update**: Sprint board screenshotları:
+![Sprint3 1](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%203/Sprint%203.1.png)
+
+![Sprint3 2](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%203/Sprint%203.2.png)
+
+![Sprint3 3](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%203/Sprint%203.3.png)
+
+![Sprint3 4](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%203/Sprint%203.4.png)
