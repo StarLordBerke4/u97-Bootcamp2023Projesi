@@ -163,3 +163,11 @@ Bu proje sayesinde oyun projelerinde ekip çalışmasının ne kadar önemli old
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü ve son sprint'in de 100 puan olmasına karar verdik.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmıştır. Temmuz ile berber tatil sürecinin başlamasından dolayı haftada 2 kez gerçekleştirilmiştir. Daily Scrum toplantısı örnekleri word olarak Readme'de tarafımızdan paylaşılmaktadır:
+
+- **Backlog Düzeni**: Backlog'umuz tarihlere göre düzenlenmiştir. Ayrıca yapılacak işler (tags) Sprint 1,2 ve 3 için gruplara bölünerek sıralanmıştır.
+
+Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "Notion" üzerinden. Tamamlanan görevler; "Done" devam eden görevler ise; "İn Progress" olarak ifade edilmiştir.
+
+- **Sprint board update**: Sprint board screenshotları:
