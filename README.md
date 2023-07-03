@@ -190,5 +190,13 @@ Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "No
 - **Ürün Durumu**: Ekran Görüntüleri:
 - Sprint 3 sonunda mobil platformlar için unity ile hazırladığımız oyun projemiz olan "Defend Your City" isimli oyunumuzu tamamladık. 
 
+![Screenshot 1](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/G%C3%B6rsel%201.jpg)
+
+![Screenshot 2](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/G%C3%B6rsel%202.jpg)
+
+![Screenshot 3](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/G%C3%B6rsel%203.jpg)
+
 ![Screenshot 4](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/G%C3%B6rsel%204.jpg)
+
+Ayrıca; unity oyun projemiz "Defend Your City'nin" tamamlanmış halini ve  oyun içi detayları daha net görmek isterseniz oyun içi oynanış mekaniklerini gösterdiğimiz tanıtım videomuzu izlemeyi unutmayın!
 
