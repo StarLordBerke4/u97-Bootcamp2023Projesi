@@ -189,3 +189,6 @@ Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "No
 
 - **Ürün Durumu**: Ekran Görüntüleri:
 - Sprint 3 sonunda mobil platformlar için unity ile hazırladığımız oyun projemiz olan "Defend Your City" isimli oyunumuzu tamamladık. 
+
+![Screenshot 4](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/G%C3%B6rsel%204.jpg)
+
