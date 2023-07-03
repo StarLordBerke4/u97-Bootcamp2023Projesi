@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 34f56d22ea5d7a7a4b50ea3e9505159c014a43a9 Hasan Çelik <hasancelikdeveloper@gmail.com> 1678476628 +0300	clone: from https://github.com/Hasanceliktr/InvictusDefence.git
+34f56d22ea5d7a7a4b50ea3e9505159c014a43a9 c4ec172e5f07f6c1f8b415b7c39e0bb31b14a237 Hasan Çelik <hasancelikdeveloper@gmail.com> 1678476931 +0300	commit: first commit
+c4ec172e5f07f6c1f8b415b7c39e0bb31b14a237 60d6c0b8514250a587d1c558e14684ac51a1da0b Hasan Çelik <hasancelikdeveloper@gmail.com> 1678569084 +0300	commit: Admob entegrasyonu yapildi.
+60d6c0b8514250a587d1c558e14684ac51a1da0b 8f3d330ba79b63d3bb095df92018152d8bb35d2d Hasan Çelik <hasancelikdeveloper@gmail.com> 1678647845 +0300	commit: Reklamlar sorunsuz ayarlandı.
+8f3d330ba79b63d3bb095df92018152d8bb35d2d 94e658753833971fc77ce7f9c9aa59e72ae425b0 Hasan Çelik <hasancelikdeveloper@gmail.com> 1678657624 +0300	commit: Sağdaki panelin donma sorunu cozuldu.
+94e658753833971fc77ce7f9c9aa59e72ae425b0 cc1d43f38f0d58df48347fb0bb697d4b354026d3 Hasan Çelik <hasancelikdeveloper@gmail.com> 1678710154 +0300	commit: Reklam yonetim duzenlendi.
+cc1d43f38f0d58df48347fb0bb697d4b354026d3 abda5b46a2783f2db871efcca117179070e18deb Hasan Çelik <hasancelikdeveloper@gmail.com> 1678744676 +0300	commit: Level gecis icin reklam butonu ayarlandı reklam testi yapildi. Dil yonetimi icin sistemin default diline göre düzeltildi.
+abda5b46a2783f2db871efcca117179070e18deb 3be84a62f075dfe82c8e1b46a7ace9d9f1717288 Hasan Çelik <hasancelikdeveloper@gmail.com> 1678745067 +0300	commit: Dokunmatik ayari ayarlandi
+3be84a62f075dfe82c8e1b46a7ace9d9f1717288 80714ccc4848b1690009f9a26d8b796135492b49 Hasan Çelik <hasancelikdeveloper@gmail.com> 1678869274 +0300	commit: Admob eklentilerinin reklam izledikten sonra verilecek odullerin sorunu giderildi.
+80714ccc4848b1690009f9a26d8b796135492b49 81aa310c61325e3e47eec828a81e72cef5d0aba9 Hasan Çelik <hasancelikdeveloper@gmail.com> 1678886243 +0300	commit: Reklamlarla ilgili gerekli güncellemeler yapıldı.
+81aa310c61325e3e47eec828a81e72cef5d0aba9 d6c4b63b37055005f4fb42f3a310664a8ac9a559 Hasan Çelik <hasancelikdeveloper@gmail.com> 1678992232 +0300	commit: Reklamlar duzenlendi.
+d6c4b63b37055005f4fb42f3a310664a8ac9a559 b2f95e55be8eafc737cd43974f45b0cd6a32adc1 Hasan Çelik <hasancelikdeveloper@gmail.com> 1679322104 +0300	commit: Yan ekranda reklam gösterililrken çentik kısmında oyun arka plan görünmesi kısmı düzeltildi. Siyah panel eklendi.
+b2f95e55be8eafc737cd43974f45b0cd6a32adc1 b28379aec59b8a57b6fbc5b7eb8e910a56b5a6e0 Hasan Çelik <hasancelikdeveloper@gmail.com> 1679599687 +0300	commit: Gereksiz buton kaldırıldı.
+b28379aec59b8a57b6fbc5b7eb8e910a56b5a6e0 5d490de582ae90c7b55877c87b5c3396e99e25ea Hasan Çelik <hasancelikdeveloper@gmail.com> 1679603407 +0300	commit: Gereksiz dosyalar kaldırıldı.
+5d490de582ae90c7b55877c87b5c3396e99e25ea efe27ebd02807b297648b4d8ec8adc5288ead35e Hasan Çelik <hasancelikdeveloper@gmail.com> 1679857802 +0300	commit: Liderlik tablosu özelliği eklendi.
