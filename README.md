@@ -48,7 +48,7 @@ Ekibimizle beraber yapmakta olduğumuz "Defend Your City" isim 2D kule savunma o
 ## Juriye Not
 "Defend Your City" isimli oyun projemizde kullanacağımız oyun grafikleri ve modellemeler zaman kısıtından dolayı hazır assetler'den yararlanılarak oluşturulacaktır.
 
-## Juriye Not 2: 
+## Juriye Not 2
 Dosya boyutu nedeni ile github'a büyük dosyaları yükleyemedik. Bu yüzden ayrıca, oyun projemiz "Defend Your City'yi" Google Drive'a yükledik. Projemizi Drive üzerinden indirebilirsiniz:
 [Google Drive Linki (Projeyi İndirebilirsiniz)](https://drive.google.com/file/d/1E8J-3xOHfRXJ6-UVoZMeslVCg-XceQ_q/view?usp=sharing)
 
@@ -164,7 +164,7 @@ Bu proje sayesinde oyun projelerinde ekip çalışmasının ne kadar önemli old
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü ve son sprint'in de 100 puan olmasına karar verdik.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmıştır. Temmuz ile berber tatil sürecinin başlamasından dolayı haftada 2 kez gerçekleştirilmiştir. Daily Scrum toplantısı örnekleri word olarak Readme'de tarafımızdan paylaşılmaktadır:
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmıştır. Temmuz ile berber tatil sürecinin başlamasından dolayı haftada 2 kez gerçekleştirilmiştir. Daily Scrum toplantısı örnekleri word olarak Readme'de tarafımızdan paylaşılmaktadır:[**Sprint 3 Daily Scrum Chats**](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/blob/main/Proje%20Y%C3%B6netimi/Sprint%203/Sprint%203%20Daily%20Scrum%20Chats.txt)
 
 - **Backlog Düzeni**: Backlog'umuz tarihlere göre düzenlenmiştir. Ayrıca yapılacak işler (tags) Sprint 1,2 ve 3 için gruplara bölünerek sıralanmıştır.
 
