@@ -210,7 +210,7 @@ https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/assets/76530359/0989c5
 -  Ürün içinde karşılaşılabilecek sorunlara çözüm bulmak adına yoğunca test sürecinden geçildi. Yazılan kodlar ve Assetlerin uyumu gözden geçirilerek kontrol edildi.
 -  Ürün içi gelir elde modeli olarak kısa süreli, video reklam modeli benimsenerek ürün içine yerelştirildi. Bu model tercil edildiği için ürünümüz mobil store'lara ücretsiz olarak çıkacaktır.
 -  Sosyal medya tanıtımı ve pazarlamasına önem verilerek youtube, facebook, instagram, linkedin gibi sosyal mecralardan afiş ve videolar ile oyun tanıtılarak ve gemeplay gösterilerek oyun severlere ulaşmak hedeflendi. Not: ilerleyen süreçte oyun tanıtımlarını daha kolay yapmak adına oyunun resmi youtube kanalı ve instagram sayfası açılması planlanıyor.
--  Son olarak github reposuna proje yönetimi sürecinde kullanılan tüm materyeller eklenerek sprint'lerin yer aldığı readme dosyası güncellendi. Repo içerisinde proje yönetimi mataryelleri "Proje Yönetimi" klasörü altında toplanmıştır.
+-  Son olarak; github reposuna proje yönetimi sürecinde kullanılan tüm materyeller eklenerek sprint'lerin yer aldığı readme dosyası güncellendi. Repo içerisinde proje yönetimi mataryelleri "Proje Yönetimi" klasörü altında toplanmıştır.
 -  Ayrıca; oyun dosyaları github reposuna eklenerek "Proje Dosyaları" klasörü altında yer almaktadır.
 
 ## Not: 
