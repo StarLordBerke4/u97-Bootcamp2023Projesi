@@ -48,7 +48,7 @@ Ekibimizle beraber yapmakta olduğumuz "Defend Your City" isim 2D kule savunma o
 ## Juriye Not
 "Defend Your City" isimli oyun projemizde kullanacağımız oyun grafikleri ve modellemeler zaman kısıtından dolayı hazır assetler'den yararlanılarak oluşturulacaktır.
 
-## Not: 
+## Juriye Not 2: 
 Dosya boyutu nedeni ile github'a büyük dosyaları yükleyemedik. Bu yüzden ayrıca, oyun projemiz "Defend Your City'yi" Google Drive'a yükledik. Projemizi Drive üzerinden indirebilirsiniz:
 [Google Drive Linki (Projeyi İndirebilirsiniz)](https://drive.google.com/file/d/1E8J-3xOHfRXJ6-UVoZMeslVCg-XceQ_q/view?usp=sharing)
 
@@ -201,3 +201,23 @@ Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "No
 Ayrıca; unity oyun projemiz "Defend Your City'nin" tamamlanmış halini ve  oyun içi detayları daha net görmek isterseniz oyun içi oynanış mekaniklerini gösterdiğimiz tanıtım videomuzu izlemeyi unutmayın!
 
 https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi/assets/76530359/0989c54c-4248-47d6-ab99-a645fecab273
+
+- **Sprint Review**: "Defend Your City" isimli unity oyun projemizin bu aşamasında ekibimizde yer alan tüm takım arkadaşlarımız üzerlerine düşen görevleri yerine getirerek projenin tamamlanmasını sağlanmıştır. Sprint 3 de daha çok yoğun olarak kafa yorduğumuz konular; oyundaki hata kontrol ve test süreçleri, ürün içi reklam stratejileri ve sosyal medya tanıtımı gibi konular oldu. "Defend Your City" çok yakında sizlerle olacak.
+  
+- **Sprint Review Katılımcıları**: Berke Mert Öztürk, İclal Gül, Mustafa Orhan, Gizem Dinç, Cihan Yavuz Taş
+
+- **Sprint Retrospective:**
+-  Ürün içinde karşılaşılabilecek sorunlara çözüm bulmak adına yoğunca test sürecinden geçildi. Yazılan kodlar ve Assetlerin uyumu gözden geçirilerek kontrol edildi.
+-  Ürün içi gelir elde modeli olarak kısa süreli, video reklam modeli benimsenerek ürün içine yerelştirildi. Bu model tercil edildiği için ürünümüz mobil store'lara ücretsiz olarak çıkacaktır.
+-  Sosyal medya tanıtımı ve pazarlamasına önem verilerek youtube, facebook, instagram, linkedin gibi sosyal mecralardan afiş ve videolar ile oyun tanıtılarak ve gemeplay gösterilerek oyun severlere ulaşmak hedeflendi. Not: ilerleyen süreçte oyun tanıtımlarını daha kolay yapmak adına oyunun resmi youtube kanalı ve instagram sayfası açılması planlanıyor.
+-  Son olarak github reposuna proje yönetimi sürecinde kullanılan tüm materyeller eklenerek sprint'lerin yer aldığı readme dosyası güncellendi. Repo içerisinde proje yönetimi mataryelleri "Proje Yönetimi" klasörü altında toplanmıştır.
+-  Ayrıca; oyun dosyaları github reposuna eklenerek "Proje Dosyaları" klasörü altında yer almaktadır.
+
+## Not: 
+Dosya boyutu nedeni ile github'a büyük dosyaları yükleyemedik. Bu yüzden ayrıca, oyun projemiz "Defend Your City'yi" Google Drive'a yükledik. Projemizi Drive üzerinden indirebilirsiniz:
+[Google Drive Linki (Projeyi İndirebilirsiniz)](https://drive.google.com/file/d/1E8J-3xOHfRXJ6-UVoZMeslVCg-XceQ_q/view?usp=sharing)
+
+---
+
+# Son Söz
+Bu sene bu güzel eğitim programına bizi kabul ettiklerinden dolayı "Google Oyun ve Uygulama Akademisine" teşekür ederiz. Ayrıca devletimizin önemli kurumları olan , TC Sanayi ve Teknoloji Bakanlığı, TC Cumhurbaşkanlığı İletişim Ofisi, T3 Girişimcili Vakfına katkılarından dolayı minnettarız. Akademi çatısı altında yer alan tüm eğitmenlerimize bu süreçte bizimle oldukları ve yol gösterdiklerinden dolayı teşşekür ederiz. Akademi bünyesinde yer alan tüm kordinatörler, bootcamp sürecinde yanımızda olan asistanlar ve akademi destek hattındaki tüm çalışan herkese çabalarından dolayı teşşekür ederiz. Program sürecinde sağolsunlar tüm sorunlara kısa sürede çözüm bulduk. Son olarak; Oyun ve Uygulama Akademisinde olmaktan çok mutluyuz hem eğlendik hem öğrendik. Kimi zaman güldük , kimi zaman üzldük ama çok güzel bir süreç geçirdik. Yeni eğitimlerde görüşmek için heyecanlıyız. İnşallah burdaki ekip arkadaşlarımız yada akademideki diğer bursiyer arkadaşlarımız ile oyun şirketi (oyun stütyosu) kurarak iyi yerlere gelmek nasip olur. Yeni eğitimlerde görüşmek üzere!
