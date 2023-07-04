@@ -1,0 +1,97 @@
+Berke Mert Öztürk
+  3:53 PM
+Arkadaşlar aranızda google developer hesabı olan varmı.
+3:54
+Oyunu play store da yayınlamak için.
+
+
+İclal Gül
+  3:54 PM
+Benim olması lazımdı
+3:54
+Bir bakıyım
+
+
+Berke Mert Öztürk
+  3:58 PM
+@İclal Gül
+ İclal varsa rica etsem play store da yayınlayabilirmisin oyunu. Sonrada bana link atabilirmisin. Onuda ekleyecem github a link olarak.
+4:02
+En azından play store da da olursa proje ordanda indirebilir jüri.
+
+
+Cihan Yavuz Taş
+  5:02 PM
+Dev hesabımız yoksa ben satın alırım arkadaşlar
+
+
+Berke Mert Öztürk
+  5:15 PM
+Valla süper olur cihan ya.
+5:16
+Play store da yayınlayıp oyunu link olarak mağaza sayfasınıda repoya koysak süper olur.
+5:16
+@cyavuztas
+
+
+Cihan Yavuz Taş
+  5:25 PM
+Pc gerekiyorsa yarın yükleyebileceğim
+5:26
+Account açayım şimdiden dev account
+
+
+Berke Mert Öztürk
+  5:36 PM
+Şu görselleride atayım mağaza sayfasına eklerken görsel ve logo isteyecek kullanabilirsin knk.
+
+
+Cihan Yavuz Taş
+  5:36 PM
+Android cihazda yükleme yapılamıyormsanırımmtabletim var
+
+
+Berke Mert Öztürk
+  5:36 PM
+pc den yapman lazım diye biliyorum
+
+
+Cihan Yavuz Taş
+  5:37 PM
+Sanal sunucu denerim en kötü
+
+
+Berke Mert Öztürk
+  5:37 PM
+ok
+
+
+Cihan Yavuz Taş
+  5:38 PM
+Sıfır hesapta direkt yayınlayabilirim herhalde yasak yoktur
+5:38
+Para kazanışı zaten açmayacağız
+
+
+Berke Mert Öztürk
+  10:13 PM
+Arkadaşlar yarın sprint 3 ün yazımını bitirmiş olacağım. Ayrıca github reposuna proje dosyalaerının bellli bir bölümünü yüklemeyi başşardım
+10:13
+Ancak çok büyük dosyalar mağlesef yüklenmedi.
+10:14
+Ekstra google drive a projeyi rar olarak da yüklemiştik onuda repoya ekledim incelemeleri için Google Drive linki olarak
+10:15
+Zaten Google Developer hesabı olan aramızdan aradaşlarda oyunu yüklediklerinde store a onuda link olarak koyarız böylece sorun kalmaz.
+10:15
+Reponun son durumu şöyle inceleyebilirsiniz.
+10:15
+https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi
+
+
+Berke Mert Öztürk
+  12:37 PM
+Arkadaşlar sprint 3 üde yazdım ve github a ekledim 1 ve 2 sprintten tam puan almışız asistan ile konuştum.
+12:37
+kısaca proje yönetimi süreci bitti repoyu inceleyebilirsiniz.
+
+
